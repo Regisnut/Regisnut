@@ -1,9 +1,9 @@
 
-<img align="right" src="https://github.com/Regisnut/Regisnut/blob/master/profil.jpg" alt="profile picture taken in south korea" width=350px height=465px/>
+<img align="right" src="https://github.com/Regisnut/Regisnut/blob/master/profil.jpg" alt="profile picture taken in south korea" width=250px height=417px/>
 
 ### Bonjour, I'm Regis 👨🏻‍💻
 
-I’m a React developer, and more. I have finished an internship as a full-stack developer using Next/Node/SQL. I currently looking for a nice company to collaborate with react or 📱 react native projects.
+I’m a React developer, and more. I have finished an internship as a full-stack developer using Next/Node/SQL. I'm currently looking for a nice company to collaborate with react or 📱 react native projects.
 
 - 🇫🇷 Based in France.
 - 💬 Ask me about iOS development, Swift, accessibility.
