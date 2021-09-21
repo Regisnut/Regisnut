@@ -5,7 +5,7 @@
 
 ### Bonjour, I'm Regis 👨🏻‍💻
 
-I’m a React developer, and more. I have finished an internship as a full-stack developer using Next/Node/SQL. I'm currently looking for a nice company to collaborate with **react** or 📱 **react native projects**.
+I’m a React developer, and more. I have finished an internship as a full-stack developer using Next/Node/SQL. I'm currently working for a nice company using **React** **Typescript** and **MongoDB**.
 
 - 🇫🇷 Based in France.
 - 🌱 Learning some jamstack stuff.
