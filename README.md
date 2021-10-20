@@ -13,3 +13,13 @@ I’m a React developer, and more. I have finished an internship as a full-stack
 - 😄 Pronouns: he/his
 - 🎾 Fun fact: I love tennis and I'm currently practising to make a tournament!
 - 📚 Willing to learn korean sooner or later ! 봉쥬르 몽드 (Hello World!)
+
+</br>
+
+<p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
