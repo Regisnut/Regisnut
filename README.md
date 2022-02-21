@@ -5,7 +5,7 @@
 
 ### Bonjour, I'm Regis 👨🏻‍💻
 
-I’m a React developer, and more. I have finished an internship as a full-stack developer using Next/Node/SQL. I'm currently working for a nice company using **React** **Typescript** and **MongoDB**.
+I’m a React developer, and more. I'm currently working for a nice company using **React** **Typescript** and **MongoDB**.
 
 - 🇫🇷 Based in France.
 - 🌱 Learning some jamstack stuff.
@@ -24,4 +24,3 @@ I’m a React developer, and more. I have finished an internship as a full-stack
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=Regisnut&show_icons=true&theme=radical)
